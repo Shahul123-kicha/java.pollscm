@@ -13,4 +13,3 @@ Trying to implement github webhook !!!!!!
 Implementing Poll SCM
 
 Trying to implement github hook trigger
-. . . .
